@@ -70,14 +70,4 @@ int main()
 	}
 
 	return 0;
-
-
-
-	/*UdpServer server1(1110);// , server2;
-	std::cout << "A" << std::endl;
-	//server1.listen(1110);
-	std::cout << "B" << std::endl;
-	//server2.listen(1110);
-	//std::cout << "C" << std::endl;
-	return 0;*/
 }
